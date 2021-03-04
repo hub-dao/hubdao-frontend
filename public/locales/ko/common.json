@@ -1,0 +1,11 @@
+{
+  "language": "언어",
+  "connect-wallet": "지갑연결",
+  "wallet-modal-title": "지갑연결",
+  "account-modal-title": "나의 지갑정보",
+  "view-scan": "Heco스캔 보기",
+  "copy-address": "주소복사",
+  "logout": "로그아웃",
+  "network-missmatch": "HubDAO 서비스를 이용하시려면, chainId {{target}}에 접속하셔야 합니다. 현재 chainId는 {{current}}입니다.",
+  "logined": "{{address}} 로그인되었습니다."
+}

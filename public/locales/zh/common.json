@@ -1,0 +1,11 @@
+{
+  "language": "语言",
+  "connect-wallet": "解锁钱包",
+  "wallet-modal-title": "解锁钱包",
+  "account-modal-title": "您的钱包",
+  "view-scan": "查看Heco浏览器",
+  "copy-address": "复制地址",
+  "logout": "注销",
+  "network-missmatch": "如果您想使用 HubDAO 服务， 请登录 chainId {{target}} 。 当前chainId为{{current}}。",
+  "logined": "{{address}} 已登录。"
+}

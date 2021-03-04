@@ -1,0 +1,11 @@
+{
+  "language": "Language",
+  "connect-wallet": "Connect Wallet",
+  "wallet-modal-title": "Connect to Wallet",
+  "account-modal-title": "Your Wallet",
+  "view-scan": "View on HecoScan",
+  "copy-address": "Copy Address",
+  "logout": "Logout",
+  "network-missmatch": "To use the HubDAO service, you must access chainId {{target}} The current chainId is {{current}}.",
+  "logined": "{{address}} Logined."
+}
